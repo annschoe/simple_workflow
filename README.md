@@ -3,7 +3,6 @@
 **Note:** This demo is intended to run on OS X and GNU/Linux environments, but you can use the Docker container to run on any system you can run Docker or Singularity on.
 
 ### Notice for commercial use
-## test editing
 
 non-free/science        fsl-5.0-core
 non-free/science        fsl-atlases, fsl-first-data
